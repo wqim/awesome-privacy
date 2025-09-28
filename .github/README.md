@@ -398,20 +398,6 @@ defaults are guided by research like the
 
 		</details>
 
-- **[<img src='https://www.mozilla.org/media/protocol/img/logos/firefox/logo.fedb52c912d6.svg' width='16' height='16' alt='icon' /> Firefox](https://www.mozilla.org/firefox)** - Significantly more private, and offers some nifty privacy features than Chrome,
-Internet Explorer and Safari. After installing, there are a couple of small tweaks
-you will need to make, in order to secure Firefox. For a though config, see
-[@arkenfox's user.js](https://github.com/arkenfox/user.js/). You can also follow
-one of these guides by: [Restore Privacy](https://restoreprivacy.com/firefox-privacy/)
-or [12Bytes](https://codeberg.org/12bytes/firefox-config-guide)
-[…](https://awesome-privacy.xyz/essentials/browsers/firefox "View full Firefox report") 
-	- <details>
-		<summary>Stats</summary>
-
-		 [![Privacy Policy](https://shields.tosdr.org/en_188.svg)](https://tosdr.org/en/service/188) [![Firefox on Awesome Privacy](https://img.shields.io/badge/View%20Report-FC60A8?style=flat&logo=awesomelists&label=Firefox)](https://awesome-privacy.xyz/essentials/browsers/firefox) 
-📦 Open Source ˙ 
-
-		</details>
 - **[<img src='https://www.torproject.org/static/images/favicon/favicon.ico' width='16' height='16' alt='icon' /> Tor Browser](https://www.torproject.org/)** - Tor provides an extra layer of anonymity, by encrypting each of your requests, then
 routing it through several nodes, making it near-impossible for you to be tracked by
 your ISP/ provider. It does make every-day browsing a little slower, and some sites
@@ -425,7 +411,7 @@ may not work correctly. As with everything there are
 📦 Open Source ˙ 
 
 		</details>
-- **[<img src='https://camo.githubusercontent.com/fc003f5ff33669908e7b929692fdbb8d10ec7df5ffa5e02e4d9becf405dd7804/68747470733a2f2f7777772e63726f6d6974652e6f72672f6170705f69636f6e2e706e67' width='16' height='16' alt='icon' /> Cromite](https://www.cromite.org/)** - Cromite is a Chromium fork based on Bromite with built-in support for ad blocking and an eye for privacy.
+- **[<img src='https://camo.githubusercontent.com/6b4ee03be91712db2d81b603a1bb83553e97b66fa49443bf27b641089ea51696/68747470733a2f2f7777772e63726f6d6974652e6f72672f6170705f69636f6e2e706e67' width='16' height='16' alt='icon' /> Cromite](https://www.cromite.org/)** - Cromite is a Chromium fork based on Bromite with built-in support for ad blocking and an eye for privacy.
 […](https://awesome-privacy.xyz/essentials/browsers/cromite "View full Cromite report") 
 	- <details>
 		<summary>Stats</summary>
@@ -565,7 +551,7 @@ you can visit [JoinJabber](https://joinjabber.org).
 📦 Open Source ˙ 
 
 		</details>
-- **[<img src='https://matrix.org/assets/favicon.ico' width='16' height='16' alt='icon' /> Matrix](https://matrix.org)** - Matrix is a decentralized open network for secure communications, with E2E
+- **[<img src='https://matrix.org/assets/favicon.ic' width='16' height='16' alt='icon' /> Matrix](https://matrix.org)** - Matrix is a decentralized open network for secure communications, with E2E
 encryption with Olm and Megolm. Along with the [Element](https://element.io/)
 client, it supports VOIP + video calling and IM + group chats. Since Matrix has
 an open specification and Simple pragmatic RESTful HTTP/JSON API it makes it easy
@@ -887,19 +873,7 @@ plan, as well as hosted premium option ($2.99/ month) for using custom domains.
 📦 Open Source ˙ 
 
 		</details>
-- **[<img src='https://relay.firefox.com/favicon.svg' width='16' height='16' alt='icon' /> Firefox Private Relay](https://relay.firefox.com)** - Developed and managed by Mozilla, Relay is a Firefox addon, that lets you make an
-email alias with 1 click, and have all messages forwarded onto your personal email.
-Relay is totally free to use, and very accessible to less experienced users, but also
-[open source](https://github.com/mozilla/fx-private-relay), and able to me self-hosted
-for advanced usage.
-[…](https://awesome-privacy.xyz/communication/mail-forwarding/firefox-private-relay "View full Firefox Private Relay report") 
-	- <details>
-		<summary>Stats</summary>
 
-		[![GitHub: mozilla/fx-private-relay](https://img.shields.io/github/stars/mozilla/fx-private-relay?style=flat&logo=github&label=fx-private-relay&color=%235f53f4&cacheSeconds=3600)](https://github.com/mozilla/fx-private-relay) [![Privacy Policy](https://shields.tosdr.org/en_4158.svg)](https://tosdr.org/en/service/4158) [![Firefox Private Relay on Awesome Privacy](https://img.shields.io/badge/View%20Report-FC60A8?style=flat&logo=awesomelists&label=Firefox_Private_Relay)](https://awesome-privacy.xyz/communication/mail-forwarding/firefox-private-relay) 
-📦 Open Source ˙ 
-
-		</details>
 - **[<img src='https://forwardemail.net/img/android-chrome-192x192.png' width='16' height='16' alt='icon' /> ForwardEmail](https://forwardemail.net)** - Simple open source catch-all email forwarding service. Easy to self-host (see on
 [GitHub](https://github.com/forwardemail/free-email-forwarding)), or the hosted version
 has a free plan as well as a ($3/month) premium plan.
