@@ -551,7 +551,7 @@ you can visit [JoinJabber](https://joinjabber.org).
 📦 Open Source ˙ 
 
 		</details>
-- **[<img src='https://matrix.org/assets/favicon.ic' width='16' height='16' alt='icon' /> Matrix](https://matrix.org)** - Matrix is a decentralized open network for secure communications, with E2E
+- **[<img src='https://matrix.org/images/matrix-favicon.svg' width='16' height='16' alt='icon' /> Matrix](https://matrix.org)** - Matrix is a decentralized open network for secure communications, with E2E
 encryption with Olm and Megolm. Along with the [Element](https://element.io/)
 client, it supports VOIP + video calling and IM + group chats. Since Matrix has
 an open specification and Simple pragmatic RESTful HTTP/JSON API it makes it easy
@@ -750,19 +750,7 @@ private keys safe.
 
 Email clients are the programs used to interact with the mail server. For hosted email, then the web and mobile clients provided by your email service are usually adequate, and may be the most secure option. For self-hosted email, you will need to install and configure mail clients for web, desktop or mobile. A benefit of using an IMAP client, is that you will always have an offline backup of all email messages (which can then be encrypted and archived), and many applications let you aggregate multiple mailboxes for convenience. Desktop mail clients are not vulnerable to the common browser attacks, that their web app counterparts are.
 
-- **[<img src='https://www.thunderbird.net/media/img/thunderbird/ios-icon-180.png' width='16' height='16' alt='icon' /> Mozilla Thunderbird](https://www.thunderbird.net)** - Free and open source email application developed and backed by Mozilla -it's secure,
-private easy and customizable. As of V 78.2.1 encryption is built in, and the
-[TorBirdy](https://trac.torproject.org/projects/tor/wiki/torbirdy) extension routes
-all traffic through the Tor network. Forks, such as
-[Betterbird](https://github.com/Betterbird/thunderbird-patches) may add additional features.
-[…](https://awesome-privacy.xyz/communication/email-clients/mozilla-thunderbird "View full Mozilla Thunderbird report") 
-	- <details>
-		<summary>Stats</summary>
 
-		 [![Privacy Policy](https://shields.tosdr.org/en_3365.svg)](https://tosdr.org/en/service/3365) [![Mozilla Thunderbird on Awesome Privacy](https://img.shields.io/badge/View%20Report-FC60A8?style=flat&logo=awesomelists&label=Mozilla_Thunderbird)](https://awesome-privacy.xyz/communication/email-clients/mozilla-thunderbird) 
-📦 Open Source ˙ 
-
-		</details>
 - **[<img src='https://www.emclient.com/favicon.ico' width='16' height='16' alt='icon' /> eM Client](https://www.emclient.com)** - Productivity-based email client, for Windows and MacOS. eM Client has a clean user
 interface, snappy performance and good compatibility. There is a paid version, with
 some handy features, including snoozing incoming emails, watching for replies for a
@@ -1043,7 +1031,7 @@ so may not be appropriate for a non-technical team.
 📦 Open Source ˙ 
 
 		</details>
-- **[<img src='https://element.io/images/favicon.png' width='16' height='16' alt='icon' /> Element](https://element.io/)** - Privacy-focused messenger using the Matrix protocol. The Element client allows
+- **[<img src='	https://element.io/assets-32bb636196f91ed59d7a49190e26b42c/5ef25c0d30ee3108da4c25e9/5f0e1754953989c7b1ecff5d_favicon.png' width='16' height='16' alt='icon' /> Element](https://element.io/)** - Privacy-focused messenger using the Matrix protocol. The Element client allows
 for group chat rooms, media sharing voice and video group calls.
 […](https://awesome-privacy.xyz/communication/team-collaboration/element "View full Element report") 
 	- <details>
@@ -1791,17 +1779,7 @@ no surveillance ads. Accepts various payment methods including cryptocurrencies.
 📦 Open Source 🛡️ Security Audited ˙ 
 
 		</details>
-- **[<img src='https://protonvpn.com/favicons/apple-touch-icon.png' width='16' height='16' alt='icon' /> ProtonVPN](https://protonvpn.com)** - From the creators of ProtonMail, ProtonVPN has a solid reputation. They have a full suite
-of user-friendly native mobile and desktop apps. ProtonVPN is one of the few "trustworthy"
-providers that also offer a free plan.
-[…](https://awesome-privacy.xyz/networking/virtual-private-networks/protonvpn "View full ProtonVPN report") 
-	- <details>
-		<summary>Stats</summary>
 
-		[![GitHub: ProtonVPN/android-app](https://img.shields.io/github/stars/ProtonVPN/android-app?style=flat&logo=github&label=android-app&color=%235f53f4&cacheSeconds=3600)](https://github.com/ProtonVPN/android-app) [![Privacy Policy](https://shields.tosdr.org/en_1745.svg)](https://tosdr.org/en/service/1745) [![ProtonVPN on Awesome Privacy](https://img.shields.io/badge/View%20Report-FC60A8?style=flat&logo=awesomelists&label=ProtonVPN)](https://awesome-privacy.xyz/networking/virtual-private-networks/protonvpn) 
-🛡️ Security Audited ˙ 
-
-		</details>
 - **[<img src='https://www.ovpn.com/favicon.ico' width='16' height='16' alt='icon' /> OVPN](https://www.ovpn.com)** - A court-proven VPN service with support for Wireguard and OpenVPN support, and optional
 ad-blocking. Running on dedicated hardware, with no hard drives.
 […](https://awesome-privacy.xyz/networking/virtual-private-networks/ovpn "View full OVPN report") 
