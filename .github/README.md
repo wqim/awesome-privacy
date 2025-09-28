@@ -143,7 +143,8 @@ password managers. KeePass clients: [Strongbox](https://apps.apple.com/us/app/st
 [KeePassXC](https://keepassxc.org) *(Windows, Mac & Linux)*, see more KeePass
 clients and extensions at [awesome-keepass](https://github.com/lgg/awesome-keepass)
 by @lgg.
-[…](https://awesome-privacy.xyz/essentials/password-managers/keepass "View full KeePass report") 
+[…](https://awesome-privacy.xyz/essentials/password-managers/keepass "View full KeePass report")
+
 - **[<img src='https://icon.horse/icon/lesspass.com' width='16' height='16' alt='icon' /> LessPass](https://lesspass.com)** - LessPass is a little different, since it generates your passwords using a hash
 of the website name, your username and a single main-passphrase that you reuse.
 It omits the need for you to ever need to store or sync your passwords. They
@@ -396,18 +397,7 @@ defaults are guided by research like the
 📦 Open Source ˙ 
 
 		</details>
-- **[<img src='https://brave.com/static-assets/images/brave-logo-sans-text.svg' width='16' height='16' alt='icon' /> Brave Browser](https://brave.com)** - Brave Browser, currently one of the most popular private browsers - it provides
-speed, security, and privacy by blocking trackers with a clean, yet fully-featured
-UI. It also pays you in [BAT tokens](https://basicattentiontoken.org/) for using it.
-Brave also has Tor built-in, when you open up a private tab/ window.
-[…](https://awesome-privacy.xyz/essentials/browsers/brave-browser "View full Brave Browser report") 
-	- <details>
-		<summary>Stats</summary>
 
-		[![GitHub: brave/brave-browser](https://img.shields.io/github/stars/brave/brave-browser?style=flat&logo=github&label=brave-browser&color=%235f53f4&cacheSeconds=3600)](https://github.com/brave/brave-browser) [![Privacy Policy](https://shields.tosdr.org/en_1487.svg)](https://tosdr.org/en/service/1487) [![Brave Browser on Awesome Privacy](https://img.shields.io/badge/View%20Report-FC60A8?style=flat&logo=awesomelists&label=Brave_Browser)](https://awesome-privacy.xyz/essentials/browsers/brave-browser) 
-˙ 
-
-		</details>
 - **[<img src='https://www.mozilla.org/media/protocol/img/logos/firefox/logo.fedb52c912d6.svg' width='16' height='16' alt='icon' /> Firefox](https://www.mozilla.org/firefox)** - Significantly more private, and offers some nifty privacy features than Chrome,
 Internet Explorer and Safari. After installing, there are a couple of small tweaks
 you will need to make, in order to secure Firefox. For a though config, see
@@ -465,18 +455,6 @@ may not work correctly. As with everything there are
 
 ### Search Engines
 
-- **[<img src='https://duckduckgo.com/favicon.png' width='16' height='16' alt='icon' /> DuckDuckGo](https://duckduckgo.com)** - DuckDuckGo is a very user-friendly, fast and secure search engine. It's totally
-private, with no trackers, cookies or ads. It's also highly customisable, with
-dark-mode, many languages and features. They even have a [.onion](https://3g2upl4pq6kufc4m.onion)
-URL, for use with Tor and a [no Javascript version](https://duckduckgo.com/html/)
-[…](https://awesome-privacy.xyz/essentials/search-engines/duckduckgo "View full DuckDuckGo report") 
-	- <details>
-		<summary>Stats</summary>
-
-		 [![Privacy Policy](https://shields.tosdr.org/en_222.svg)](https://tosdr.org/en/service/222) [![DuckDuckGo on Awesome Privacy](https://img.shields.io/badge/View%20Report-FC60A8?style=flat&logo=awesomelists&label=DuckDuckGo)](https://awesome-privacy.xyz/essentials/search-engines/duckduckgo) 
-📦 Open Source ˙ 
-
-		</details>
 - **[<img src='https://avatars.githubusercontent.com/u/1692504' width='16' height='16' alt='icon' /> Qwant](https://www.qwant.com)** - French service that aggregates Bings results, with its own results. Qwant doesn't
 plant any cookies, nor have any trackers or third-party advertising. It returns
 non-biased search results, with no promotions. Qwant has a unique, but nice UI.
@@ -499,14 +477,7 @@ rearranged). It has several configurations that improve privacy during use
 ˙ 
 
 		</details>
-- **[<img src='https://i.ibb.co/GH1n4wf/Brave-Search-Icon.png' width='16' height='16' alt='icon' /> Brave Search](https://search.brave.com/)** - Brave Search is a privacy-focused search engine that does not track users or their searches, does not use secret algorithms or user profiling, and is based on its own search index.[…](https://awesome-privacy.xyz/essentials/search-engines/brave-search "View full Brave Search report") 
-	- <details>
-		<summary>Stats</summary>
 
-		[![GitHub: brave/brave-browser](https://img.shields.io/github/stars/brave/brave-browser?style=flat&logo=github&label=brave-browser&color=%235f53f4&cacheSeconds=3600)](https://github.com/brave/brave-browser) [![Privacy Policy](https://shields.tosdr.org/en_1487.svg)](https://tosdr.org/en/service/1487) [![Brave Search on Awesome Privacy](https://img.shields.io/badge/View%20Report-FC60A8?style=flat&logo=awesomelists&label=Brave_Search)](https://awesome-privacy.xyz/essentials/search-engines/brave-search) 
-📦 Open Source 🛡️ Security Audited ˙ 
-
-		</details>
 - **[<img src='https://www.mojeek.com/favicon.png' width='16' height='16' alt='icon' /> Mojeek](https://mojeek.com)** - British search engine providing independent and unbiased search results using
 its own crawler. Has a zero tracking policy (it is not open source)
 […](https://awesome-privacy.xyz/essentials/search-engines/mojeek "View full Mojeek report") 
@@ -701,22 +672,6 @@ Tox.
 
 Email is not secure - your messages can be easily intercepted and read. Corporations scan the content of your mail, to build up a profile of you, either to show you targeted ads or to sell onto third-parties. Through the [Prism Program](https://en.wikipedia.org/wiki/PRISM_(surveillance_program)), the government also has full access to your emails (if not end-to-end encrypted) - this applies to Gmail, Outlook Mail, Yahoo Mail, GMX, ZoHo, iCloud, AOL and more.<br><br> For a more details comparison of email providers, see [email-comparison.as93.net](https://email-comparison.as93.net/)
 
-- **[<img src='https://proton.me/favicons/android-chrome-192x192.png' width='16' height='16' alt='icon' /> ProtonMail](https://protonmail.com)** - An end-to-end encrypted anonymous email service. ProtonMail has a
-modern easy-to-use and customizable UI, as well as fast, secure native mobile
-apps. ProtonMail has all the features that you'd expect from a modern email
-service and is based on simplicity without sacrificing security. It has a free
-plan or a premium option for using custom domains (starting at $5/month).
-ProtonMail requires no personally identifiable information for signup, they have
-a [.onion](https://protonirockerxow.onion) server, for access via Tor, and they
-accept anonymous payment: BTC and cash (as well as the normal credit card and PayPal).
-[…](https://awesome-privacy.xyz/communication/encrypted-email/protonmail "View full ProtonMail report") 
-	- <details>
-		<summary>Stats</summary>
-
-		[![GitHub: ProtonMail/WebClients](https://img.shields.io/github/stars/ProtonMail/WebClients?style=flat&logo=github&label=WebClients&color=%235f53f4&cacheSeconds=3600)](https://github.com/ProtonMail/WebClients) [![Privacy Policy](https://shields.tosdr.org/en_491.svg)](https://tosdr.org/en/service/491) [![ProtonMail on Awesome Privacy](https://img.shields.io/badge/View%20Report-FC60A8?style=flat&logo=awesomelists&label=ProtonMail)](https://awesome-privacy.xyz/communication/encrypted-email/protonmail) 
-˙ 
-
-		</details>
 - **[<img src='https://tuta.com/resources/favicon/logo-favicon.svg' width='16' height='16' alt='icon' /> Tuta](https://tuta.com)** - Free and open source email service based in Germany. It has a basic intuitive UI,
 secure native mobile apps and desktop email clients, anonymous signup, and an encrypted calendar. Tuta has a
 full-featured free plan and premium subscription plans allowing for
@@ -798,6 +753,7 @@ private keys safe.
 > - [StartMail](https://www.startmail.com)
 > - [Posteo](https://posteo.de)
 > - [Disroot](https://disroot.org/en)
+> - [CockMail](https://www.cock.li/)
 </details>
 
 <p align="right"><sup><a href="#top">⬆️ [Back to Top]</a></sub></p>
@@ -955,16 +911,6 @@ has a free plan as well as a ($3/month) premium plan.
 ˙ 
 
 		</details>
-- **[<img src='https://proton.me/favicons/android-chrome-192x192.png' width='16' height='16' alt='icon' /> ProtonMail](https://protonmail.com/pricing)** - If you already have ProtonMail's Professional (€8/month) or Visionary (€30/month) package,
-then an implementation of this feature is available via the Catch-All Email feature.
-[…](https://awesome-privacy.xyz/communication/mail-forwarding/protonmail "View full ProtonMail report") 
-	- <details>
-		<summary>Stats</summary>
-
-		 [![Privacy Policy](https://shields.tosdr.org/en_491.svg)](https://tosdr.org/en/service/491) [![ProtonMail on Awesome Privacy](https://img.shields.io/badge/View%20Report-FC60A8?style=flat&logo=awesomelists&label=ProtonMail)](https://awesome-privacy.xyz/communication/mail-forwarding/protonmail) 
-📦 Open Source ˙ 
-
-		</details>
 
 <p align="right"><sup><a href="#top">⬆️ [Back to Top]</a></sub></p>
 
@@ -976,7 +922,7 @@ then an implementation of this feature is available via the Catch-All Email feat
 verify and sign emails. Free and open source, Enigmail is compatible with Interlink
 Mail & News and Postbox. Their website contains thorough documentation and
 quick-start guides, once set up it is extremely convenient to use.
-[…](https://awesome-privacy.xyz/communication/email-security-tools/enigmail "View full Enigmail report") 
+[…](https://awesome-privacy.xyz/communication/email-security-tools/enigmail "View full Enigmail report")
 - **[<img src='https://icon.horse/icon/www.emailprivacytester.com' width='16' height='16' alt='icon' /> Email Privacy Tester](https://www.emailprivacytester.com/)** - Quick tool, that enables you to test whether your mail client "reads" your emails
 before you've opened them, and also checks what analytics, read-receipts or other
 tracking data your mail client allows to be sent back to the sender. The system is
@@ -1169,6 +1115,9 @@ integrations.
 
 The following browser add-ons give you better control over what content is able to be loaded and executed while your browsing.<br> Before installing anything, you should read the Word of Warning section below.
 
+- **[<img src='https://addons.mozilla.org/user-media/addon_icons/534/534930-64.png?modified=158184956' width='16' height='16' alt='icon'> Canvas Blocker](https://github.com/kkapsner/CanvasBlocker/)** - Allows to change user agent, WebGL vendor and other parameters which can be used to track you. **Download**:
+[Firefox](https://addons.mozilla.org/en-US/firefox/addon/canvasblocker/)
+
 - **[<img src='https://i.ibb.co/8Y1ds5X/privacy-badger.png' width='16' height='16' alt='icon' /> Privacy Badger](https://privacybadger.org/)** - Blocks invisible trackers, in order to stop advertisers and other third-parties
 from secretly tracking where you go and what pages you look at. **Download**:
 [Chrome](https://chrome.google.com/webstore/detail/privacy-badger/pkehgijcmpdhfbdbbnkijodmdjhbjlgp) -
@@ -1294,17 +1243,7 @@ Improves privacy and load times. Works out-of-the-box and plays nicely with regu
 [Pale Moon](https://addons.palemoon.org/addon/decentraleyes) -
 [Source](https://git.synz.io/Synzvato/decentraleyes)
 […](https://awesome-privacy.xyz/security-tools/browser-extensions/decentraleyes "View full Decentraleyes report") 
-- **[<img src='https://avatars.githubusercontent.com/u/342708' width='16' height='16' alt='icon' /> Privacy Essentials](https://duckduckgo.com/app)** - Simple extension by DuckDuckGo, which grades the security of each site. **Download**:
-[Chrome](https://chrome.google.com/webstore/detail/duckduckgo-privacy-essent/bkdgflcldnnnapblkhphbgpggdiikppg?hl=en-GB) \
-[Firefox](https://addons.mozilla.org/en-GB/firefox/addon/duckduckgo-for-firefox/)
-[…](https://awesome-privacy.xyz/security-tools/browser-extensions/privacy-essentials "View full Privacy Essentials report") 
-	- <details>
-		<summary>Stats</summary>
 
-		[![GitHub: duckduckgo/duckduckgo-privacy-extension](https://img.shields.io/github/stars/duckduckgo/duckduckgo-privacy-extension?style=flat&logo=github&label=duckduckgo-privacy-extension&color=%235f53f4&cacheSeconds=3600)](https://github.com/duckduckgo/duckduckgo-privacy-extension) [![Privacy Policy](https://shields.tosdr.org/en_222.svg)](https://tosdr.org/en/service/222) [![Privacy Essentials on Awesome Privacy](https://img.shields.io/badge/View%20Report-FC60A8?style=flat&logo=awesomelists&label=Privacy_Essentials)](https://awesome-privacy.xyz/security-tools/browser-extensions/privacy-essentials) 
-📦 Open Source ˙ 
-
-		</details>
 - **[<img src='https://lh3.googleusercontent.com/pC5a_u12RlaLQhJ-5Jz87rtju2s0tCksUfZHvr3JYzAaiYZJfJapmuftodT7wuAedFOHtgxR2BGh_GmKijgiK5bJyA' width='16' height='16' alt='icon' /> Privacy Redirect](https://github.com/SimonBrazell/privacy-redirect)** - A simple web extension that redirects Twitter, YouTube, Instagram & Google Maps requests to privacy friendly alternatives
 **Download**: [Firefox](https://addons.mozilla.org/en-US/firefox/addon/privacy-redirect/) - [Chrome](https://chrome.google.com/webstore/detail/privacy-redirect/pmcmeagblkinmogikoikkdjiligflglb)
 […](https://awesome-privacy.xyz/security-tools/browser-extensions/privacy-redirect "View full Privacy Redirect report") 
